@@ -2,7 +2,7 @@ import streamlit as st
 import cohere
 
 # Setup Cohere API
-co = cohere.Client("YOUR_API_KEY")
+co = cohere.Client("Zdcyx9mxeFtVemihLfsk3vo6cfxBkpLJnhOl3FIm")
 
 # Streamlit Page Configuration
 st.set_page_config(page_title="Pharmacy AI Assistant", page_icon="💊", layout="centered")
